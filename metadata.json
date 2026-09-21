@@ -1,0 +1,6 @@
+{
+  "name": "Kerala PSC Exam Photo Maker",
+  "description": "Create 150x200 JPG photos under 30KB with candidate name and date stamp for Kerala PSC and competitive exam portals.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
